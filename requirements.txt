@@ -1,6 +1,6 @@
 pandas
 seaborn
 scikit-learn
-matplotlib
+matplotlib==3.5.3
 numpy
 ipykernel
