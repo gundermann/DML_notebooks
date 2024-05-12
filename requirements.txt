@@ -4,3 +4,4 @@ scikit-learn
 matplotlib==3.5.3
 numpy
 ipykernel
+statsmodels
